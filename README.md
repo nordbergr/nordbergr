@@ -15,3 +15,6 @@ Rodi is a platform to bring together musicians, fans and venues.  Follow bands, 
 [see what I'm listening to or follow me on Spotify](https://open.spotify.com/user/125367238?si=3_jRvff7QzuuZTxP6EkcPg)
 
 Please suggest some new music for me!  I'm currently on a low-fi kick right now but I'll listen to almost anything!
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nordbergr&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
