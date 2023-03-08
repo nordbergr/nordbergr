@@ -16,4 +16,4 @@ Rodi is a platform to bring together musicians, fans and venues.  Follow bands, 
 Please suggest some new music for me!  I'm currently on a low-fi kick right now but I'll listen to almost anything!
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nordbergr&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nordbergr&count_private=true&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
